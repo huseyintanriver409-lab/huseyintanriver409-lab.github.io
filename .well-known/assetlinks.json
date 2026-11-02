@@ -1,0 +1,10 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "io.github.huseyintanriver409lab.spordefteri",
+      "sha256_cert_fingerprints": ["6C:25:B1:E0:8E:A0:E1:0C:80:65:B3:5F:88:58:EA:D0:95:20:5A:D5:1C:BB:06:6C:BC:E2:47:8B:92:00:5E:10"]
+    }
+  }
+]
